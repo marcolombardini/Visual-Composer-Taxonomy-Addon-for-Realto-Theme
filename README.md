@@ -5,4 +5,6 @@ This is from a client request to add a custom taxonomy called "Buildings" the re
 
 Customizing the Visual Composer shortcode panel so they could easily add it the listings.
 
-<img src="http://i2.wp.com/www.marcolombardini.com/wp-content/uploads/2015/02/wpreap_m3_main.png?resize=790%2C250">
+Creating the taxonomy for the listings admin
+
+<img src="">
